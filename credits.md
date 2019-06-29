@@ -1,6 +1,7 @@
 # Credits
 
-- PixelExperience
+- PixelExperience (Base Done by @jhenique and team)
+- Evolution X (Customization Done by Evolution X)
 - COSP
 - LineageOS
 - AICP
@@ -16,5 +17,4 @@
 - MSM-Xtended
 - NitogenOS
 - CarbonROM
-- Evolution X
 - ValidusOS
